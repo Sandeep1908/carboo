@@ -142,7 +142,7 @@
     cursor: pointer;
     transition: background-color .25s ease, border-color .25s ease;
     padding: 0 24px;
-    background-color: #2fce65
+    background-color: #8BC53F
 }
 
 .footer_footer__u526u .footer_container__p_rUh .footer_container_text__y_NrR .footer_demo__if9SE .footer_btn_text__WXFvO {
@@ -211,7 +211,7 @@
 }
 
 .footer_footer__u526u .footer_container__p_rUh .footer_container_text__y_NrR .footer_demo__if9SE:hover .footer_btn_arrow__b9PAz .footer_btn_arrow_rd__IPOzr {
-    fill: #2fce65
+    fill: #8BC53F
 }
 
 .footer_footer__u526u .footer_container__p_rUh .footer_container_text__y_NrR .footer_demo__if9SE:hover .footer_btn_arrow__b9PAz {
@@ -300,8 +300,8 @@
 }
 
 .footer_footer__u526u .footer_container__p_rUh .footer_container_links__KPvE4 ul li a span {
-    color: #07503e;
-    border: 1px solid #07503e;
+    color: #8BC53F;
+    border: 1px solid #8BC53F;
     padding: 0 8px;
     margin-left: 12px;
     border-radius: 5px;
@@ -349,7 +349,7 @@
     padding: 40px 30px;
     position: relative;
     border-radius: 24px;
-    background-color: #07503e;
+    background-color: #8BC53F;
     height: -moz-min-content;
     height: min-content
 }
