@@ -1,0 +1,170 @@
+@font-face {
+    font-family: Pangea_bold;
+    src: url(/fonts/Pangea-Bold.woff2) format("woff2"),url(/fonts/Pangea-Bold.otf) format("opentype");
+    font-display: swap
+}
+
+@font-face {
+    font-family: Pangea_SemiBold;
+    src: url(/fonts/Pangea-SemiBold.woff2) format("woff2"),url(/fonts/Pangea-SemiBold.otf) format("opentype");
+    font-display: swap
+}
+
+@font-face {
+    font-family: Pangea_Regular;
+    src: url(/fonts/Pangea-Regular.woff2) format("woff2"),url(/fonts/Pangea-Regular.otf) format("opentype");
+    font-display: swap
+}
+
+@font-face {
+    font-family: Inter-Bold;
+    src: url(/fonts/Inter-Bold.woff2) format("woff2"),url(/fonts/Inter-Bold.ttf) format("truetype");
+    font-display: swap
+}
+
+@font-face {
+    font-family: Inter-Regular;
+    src: url(/fonts/Inter-Regular.woff2) format("woff2"),url(/fonts/Inter-Regular.ttf) format("truetype");
+    font-display: swap
+}
+
+.style_section_tag__yCwpo {
+    padding: 120px 0 0
+}
+
+.style_section_tag__yCwpo .style_wrapper__S5CZO {
+    margin-right: auto;
+    margin-left: auto
+}
+
+@media screen and (min-width: 1200px) {
+    .style_section_tag__yCwpo .style_wrapper__S5CZO {
+        width:calc(((64px * 12) + ((calc(calc(40px * 11 / 12) * 11 / 12) * 12 / (12 - 1)) * (12 - 1))) + calc(0 * calc(40px * 11 / 12)))
+    }
+}
+
+@media screen and (min-width: 700px)and (max-width:1200px) {
+    .style_section_tag__yCwpo .style_wrapper__S5CZO {
+        width:calc(100% - 100px)
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .style_section_tag__yCwpo .style_wrapper__S5CZO {
+        width:calc(100% - 50px)
+    }
+}
+
+.style_section_tag__yCwpo .style_container_text__JjeZx {
+    text-align: center;
+    max-width: 838px;
+    margin: auto
+}
+
+.style_section_tag__yCwpo .style_container_text__JjeZx h2 {
+    color: #101010;
+    font-family: Pangea_bold,sans-serif
+}
+
+@media screen and (min-width: 700px) {
+    .style_section_tag__yCwpo .style_container_text__JjeZx h2 {
+        font-size:42px;
+        line-height: 46.2px
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .style_section_tag__yCwpo .style_container_text__JjeZx h2 {
+        font-size:26px;
+        line-height: 28.6px
+    }
+}
+
+.style_section_tag__yCwpo .style_container_text__JjeZx h2 em {
+    display: inline-block;
+    position: relative;
+    color: #fff;
+    white-space: pre
+}
+
+.style_section_tag__yCwpo .style_container_text__JjeZx h2 em svg {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    width: calc(100% + 0px);
+    height: calc(100% + 4px);
+    fill: #101010
+}
+
+.style_section_tag__yCwpo .style_container_text__JjeZx h2 em span {
+    position: relative
+}
+
+.style_section_tag__yCwpo .style_container_el__3BvaG {
+    margin-top: 72px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px
+}
+
+.style_section_tag__yCwpo .style_container_el__3BvaG .style_el__zsj9i {
+    padding: 16px;
+    display: flex;
+    align-items: center;
+    border: 1px solid #f2f2f2;
+    border-radius: 21px
+}
+
+.style_section_tag__yCwpo .style_container_el__3BvaG .style_el__zsj9i .style_icn__7uy3R {
+    width: 58px;
+    height: 58px;
+    margin-right: 16px
+}
+
+.style_section_tag__yCwpo .style_container_el__3BvaG .style_el__zsj9i .style_icn__7uy3R img {
+    width: 100%
+}
+
+.style_section_tag__yCwpo .style_container_el__3BvaG .style_el__zsj9i .style_text__rWRog {
+    color: #101010;
+    font-family: Pangea_bold,sans-serif
+}
+
+@media screen and (min-width: 700px) {
+    .style_section_tag__yCwpo .style_container_el__3BvaG .style_el__zsj9i .style_text__rWRog {
+        font-size:18px;
+        line-height: 19.8px
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .style_section_tag__yCwpo .style_container_el__3BvaG .style_el__zsj9i .style_text__rWRog {
+        font-size:16px;
+        line-height: 20.8px
+    }
+
+    .style_section_tag__yCwpo {
+        padding: 72px 0 0
+    }
+
+    .style_section_tag__yCwpo .style_container_text__JjeZx {
+        text-align: left
+    }
+
+    .style_section_tag__yCwpo .style_container_el__3BvaG {
+        margin-top: 32px;
+        flex-direction: column;
+        gap: 8px
+    }
+
+    .style_section_tag__yCwpo .style_container_el__3BvaG .style_el__zsj9i {
+        width: 100%
+    }
+
+    .style_section_tag__yCwpo .style_container_el__3BvaG .style_el__zsj9i:nth-child(6n+1) {
+        margin-left: 0
+    }
+}
