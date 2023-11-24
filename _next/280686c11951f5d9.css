@@ -144,7 +144,7 @@
     cursor: pointer;
     transition: background-color .25s ease, border-color .25s ease;
     padding: 0 24px;
-    background-color: #2fce65
+    background-color: #8BC53F
 }
 
 .style_section_saas__7DAGR .style_container_text__XbKEa .style_container_btn__sM2Yw .style_btn__82H_H .style_btn_text__GA_DU {
@@ -213,7 +213,7 @@
 }
 
 .style_section_saas__7DAGR .style_container_text__XbKEa .style_container_btn__sM2Yw .style_btn__82H_H:hover .style_btn_arrow___Impy .style_btn_arrow_rd__uoEgu {
-    fill: #2fce65
+    fill: #8BC53F
 }
 
 .style_section_saas__7DAGR .style_container_text__XbKEa .style_container_btn__sM2Yw .style_btn__82H_H:hover .style_btn_arrow___Impy {
@@ -347,7 +347,7 @@
 }
 
 .style_section_saas__7DAGR .style_container_list__M_Go3 .style_card__EcXME p {
-    direction: ltr!important;
+    direction: ltr !important;
     color: #fff;
     font-family: Inter-Regular, sans-serif;
     opacity: .8
@@ -579,7 +579,7 @@
 .style_section_saas__7DAGR .style_navbar__5m8J2 ul li.style_style_active__NjXu_ {
     color: #101010;
     font-family: Inter-Bold, sans-serif;
-    background-color: #2fce65
+    background-color: #8BC53F
 }
 
 @media screen and (min-width:700px) {
@@ -594,10 +594,12 @@
         font-size: 16px;
         line-height: 24px
     }
+
     .style_section_saas__7DAGR {
         padding-top: 72px;
         padding-bottom: 72px
     }
+
     .style_section_saas__7DAGR .style_wrapper__rywp7 {
         margin-right: auto;
         margin-left: auto;
@@ -630,6 +632,7 @@
         margin-top: 32px;
         max-height: 300px
     }
+
     .style_section_saas__7DAGR .style_container_text__XbKEa {
         margin-right: auto;
         margin-left: auto;
@@ -690,38 +693,48 @@
         justify-content: center;
         flex: 1 1 100%;
         padding: 6px 8px;
-        font-size: 12px!important
+        font-size: 12px !important
     }
+
     .style_section_saas__7DAGR:nth-last-child(2) {
         margin-bottom: 0
     }
+
     .style_section_saas__7DAGR .style_container_text__XbKEa .style_ontitle__jaKTf {
         margin-bottom: 16px
     }
+
     .style_section_saas__7DAGR .style_container_text__XbKEa h2 {
         text-align: left
     }
+
     .style_section_saas__7DAGR .style_container_img___lzG9 {
         width: 100%
     }
+
     .style_section_saas__7DAGR .style_container_img___lzG9.style_no_mobile__wPMZJ .style_img_mobile__4PdkM {
         display: none
     }
+
     .style_section_saas__7DAGR .style_container_img___lzG9.style_no_mobile__wPMZJ .style_img___CG_b {
         display: block
     }
+
     .style_section_saas__7DAGR .style_container_img___lzG9 .style_obj__d0HF3 {
         width: 104px;
         top: -42px
     }
+
     .style_section_saas__7DAGR .style_container_img___lzG9 .style_img_mobile__4PdkM {
         display: block;
         width: 100%;
         height: auto
     }
+
     .style_section_saas__7DAGR .style_container_img___lzG9 .style_img___CG_b {
         display: none
     }
+
     .style_section_saas__7DAGR .style_container_logos__n7gRn {
         padding: 0;
         width: 100%;
@@ -729,23 +742,29 @@
         justify-content: space-around;
         align-items: center
     }
+
     .style_section_saas__7DAGR .style_container_logos__n7gRn .style_logo__S01pt {
         flex-basis: 25%;
         width: 25%
     }
+
     .style_section_saas__7DAGR .style_container_logos__n7gRn .style_logo__S01pt img {
         width: 100%
     }
+
     .style_section_saas__7DAGR .style_container_skeletons__jwNrT {
         width: unset;
         margin-left: unset
     }
+
     .style_section_saas__7DAGR .style_container_skeletons__jwNrT img {
         width: 100%
     }
+
     .style_section_saas__7DAGR .style_container_btn__sM2Yw {
         margin-top: 48px
     }
+
     .style_section_saas__7DAGR .style_container_btn__sM2Yw .style_btn__82H_H {
         width: 100%;
         justify-content: center
@@ -757,6 +776,7 @@
         opacity: 0;
         translate: 0 4rem
     }
+
     to {
         opacity: 1;
         translate: "none"
@@ -768,6 +788,7 @@
         -webkit-mask-size: 100% 100%;
         mask-size: 100% 100%
     }
+
     to {
         -webkit-mask-size: 100% 1000%;
         mask-size: 100% 1000%
@@ -920,7 +941,7 @@
     cursor: pointer;
     transition: background-color .25s ease, border-color .25s ease;
     padding: 0 24px;
-    background-color: #2fce65
+    background-color: #8BC53F
 }
 
 .style_section_saas_list_numbers__xL4eQ .style_container_text__erXvw .style_container_btn__HAQ56 .style_btn__9afbj .style_btn_text__hHRsB {
@@ -989,7 +1010,7 @@
 }
 
 .style_section_saas_list_numbers__xL4eQ .style_container_text__erXvw .style_container_btn__HAQ56 .style_btn__9afbj:hover .style_btn_arrow__rHDxJ .style_btn_arrow_rd__Xm1Fv {
-    fill: #2fce65
+    fill: #8BC53F
 }
 
 .style_section_saas_list_numbers__xL4eQ .style_container_text__erXvw .style_container_btn__HAQ56 .style_btn__9afbj:hover .style_btn_arrow__rHDxJ {
@@ -1123,7 +1144,7 @@
 }
 
 .style_section_saas_list_numbers__xL4eQ .style_container_list__GjGW_ .style_card____uvb p {
-    direction: ltr!important;
+    direction: ltr !important;
     color: #fff;
     font-family: Inter-Regular, sans-serif;
     opacity: .8
@@ -1355,7 +1376,7 @@
 .style_section_saas_list_numbers__xL4eQ .style_navbar__XFW88 ul li.style_style_active__f63ZN {
     color: #101010;
     font-family: Inter-Bold, sans-serif;
-    background-color: #2fce65
+    background-color: #8BC53F
 }
 
 @media screen and (min-width:700px) {
@@ -1550,10 +1571,12 @@
         font-size: 14px;
         line-height: 21px
     }
+
     .style_section_saas_list_numbers__xL4eQ {
         padding-top: 72px;
         padding-bottom: 72px
     }
+
     .style_section_saas_list_numbers__xL4eQ .style_wrapper__mIe6G {
         margin-right: auto;
         margin-left: auto;
@@ -1586,6 +1609,7 @@
         margin-top: 32px;
         max-height: 300px
     }
+
     .style_section_saas_list_numbers__xL4eQ .style_container_text__erXvw {
         margin-right: auto;
         margin-left: auto;
@@ -1646,38 +1670,48 @@
         justify-content: center;
         flex: 1 1 100%;
         padding: 6px 8px;
-        font-size: 12px!important
+        font-size: 12px !important
     }
+
     .style_section_saas_list_numbers__xL4eQ:nth-last-child(2) {
         margin-bottom: 0
     }
+
     .style_section_saas_list_numbers__xL4eQ .style_container_text__erXvw .style_ontitle__uEs2B {
         margin-bottom: 16px
     }
+
     .style_section_saas_list_numbers__xL4eQ .style_container_text__erXvw h2 {
         text-align: left
     }
+
     .style_section_saas_list_numbers__xL4eQ .style_container_img__3L07M {
         width: 100%
     }
+
     .style_section_saas_list_numbers__xL4eQ .style_container_img__3L07M.style_no_mobile___5nS9 .style_img_mobile__4bg_v {
         display: none
     }
+
     .style_section_saas_list_numbers__xL4eQ .style_container_img__3L07M.style_no_mobile___5nS9 .style_img__DEmK_ {
         display: block
     }
+
     .style_section_saas_list_numbers__xL4eQ .style_container_img__3L07M .style_obj__U62Rx {
         width: 104px;
         top: -42px
     }
+
     .style_section_saas_list_numbers__xL4eQ .style_container_img__3L07M .style_img_mobile__4bg_v {
         display: block;
         width: 100%;
         height: auto
     }
+
     .style_section_saas_list_numbers__xL4eQ .style_container_img__3L07M .style_img__DEmK_ {
         display: none
     }
+
     .style_section_saas_list_numbers__xL4eQ .style_container_logos__eVaKJ {
         padding: 0;
         width: 100%;
@@ -1685,31 +1719,39 @@
         justify-content: space-around;
         align-items: center
     }
+
     .style_section_saas_list_numbers__xL4eQ .style_container_logos__eVaKJ .style_logo__sgeva {
         flex-basis: 25%;
         width: 25%
     }
+
     .style_section_saas_list_numbers__xL4eQ .style_container_logos__eVaKJ .style_logo__sgeva img {
         width: 100%
     }
+
     .style_section_saas_list_numbers__xL4eQ .style_container_skeletons__3jXoH {
         width: unset;
         margin-left: unset
     }
+
     .style_section_saas_list_numbers__xL4eQ .style_container_skeletons__3jXoH img {
         width: 100%
     }
+
     .style_section_saas_list_numbers__xL4eQ .style_container_btn__HAQ56 {
         margin-top: 48px
     }
+
     .style_section_saas_list_numbers__xL4eQ .style_container_btn__HAQ56 .style_btn__9afbj {
         width: 100%;
         justify-content: center
     }
+
     .style_section_saas_list_numbers__xL4eQ .style_numbers__b8VYA,
     .style_section_saas_list_numbers__xL4eQ .style_why__WWtOh {
         flex-direction: column
     }
+
     .style_section_saas_list_numbers__xL4eQ .style_numbers__b8VYA .style_why_container__VCEly .style_why_card__2WiFX,
     .style_section_saas_list_numbers__xL4eQ .style_why__WWtOh .style_why_container__VCEly .style_why_card__2WiFX {
         flex: 1 1 100%
@@ -1721,6 +1763,7 @@
         opacity: 0;
         translate: 0 4rem
     }
+
     to {
         opacity: 1;
         translate: "none"
@@ -1732,6 +1775,7 @@
         -webkit-mask-size: 100% 100%;
         mask-size: 100% 100%
     }
+
     to {
         -webkit-mask-size: 100% 1000%;
         mask-size: 100% 1000%
@@ -1892,7 +1936,7 @@
     cursor: pointer;
     transition: background-color .25s ease, border-color .25s ease;
     padding: 0 24px;
-    background-color: #2fce65
+    background-color: #8BC53F
 }
 
 .style_section_saas__E_y_k .style_container_text__GVu_e .style_container_btn__ST_O3 .style_btn__b8hgk .style_btn_text__horDV {
@@ -1961,7 +2005,7 @@
 }
 
 .style_section_saas__E_y_k .style_container_text__GVu_e .style_container_btn__ST_O3 .style_btn__b8hgk:hover .style_btn_arrow__hRVu0 .style_btn_arrow_rd__s0lNj {
-    fill: #2fce65
+    fill: #8BC53F
 }
 
 .style_section_saas__E_y_k .style_container_text__GVu_e .style_container_btn__ST_O3 .style_btn__b8hgk:hover .style_btn_arrow__hRVu0 {
@@ -2260,7 +2304,7 @@
 .style_section_saas__E_y_k .style_navbar__vZA53 ul li.style_style_active__2Qo5q {
     color: #101010;
     font-family: Inter-Bold, sans-serif;
-    background-color: #2fce65
+    background-color: #8BC53F
 }
 
 @media screen and (min-width:700px) {
@@ -2289,6 +2333,7 @@
         padding-top: 72px;
         padding-bottom: 72px
     }
+
     .style_section_saas__E_y_k .style_wrapper__o32ru {
         margin-right: auto;
         margin-left: auto
@@ -2319,37 +2364,47 @@
         bottom: 70px;
         width: 75%
     }
+
     .style_section_saas__E_y_k .style_navbar__vZA53 ul {
         flex-wrap: wrap
     }
+
     .style_section_saas__E_y_k .style_navbar__vZA53 ul li {
         flex: 1 1 100%;
         padding: 6px 8px
     }
+
     .style_section_saas__E_y_k:nth-last-child(2) {
         margin-bottom: 0
     }
+
     .style_section_saas__E_y_k .style_container_text__GVu_e .style_ontitle__laltp {
         margin-bottom: 16px
     }
+
     .style_section_saas__E_y_k .style_container_text__GVu_e h2 {
         text-align: left
     }
+
     .style_section_saas__E_y_k .style_container_img__CxMD_ {
         width: 100%
     }
+
     .style_section_saas__E_y_k .style_container_img__CxMD_ .style_obj__cBPDS {
         width: 104px;
         top: -42px
     }
+
     .style_section_saas__E_y_k .style_container_img__CxMD_ .style_img_mobile__OVFwX {
         display: block;
         width: 100%;
         height: auto
     }
+
     .style_section_saas__E_y_k .style_container_img__CxMD_ .style_img__OMn5v {
         display: none
     }
+
     .style_section_saas__E_y_k .style_container_logos__0Yvna {
         padding: 0;
         width: 100%;
@@ -2357,23 +2412,29 @@
         justify-content: space-around;
         align-items: center
     }
+
     .style_section_saas__E_y_k .style_container_logos__0Yvna .style_logo__CSGp5 {
         flex-basis: 25%;
         width: 25%
     }
+
     .style_section_saas__E_y_k .style_container_logos__0Yvna .style_logo__CSGp5 img {
         width: 100%
     }
+
     .style_section_saas__E_y_k .style_container_skeletons__BCWq9 {
         width: unset;
         margin-left: unset
     }
+
     .style_section_saas__E_y_k .style_container_skeletons__BCWq9 img {
         width: 100%
     }
+
     .style_section_saas__E_y_k .style_container_btn__ST_O3 {
         margin-top: 48px
     }
+
     .style_section_saas__E_y_k .style_container_btn__ST_O3 .style_btn__b8hgk {
         width: 100%;
         justify-content: center
@@ -2385,6 +2446,7 @@
         opacity: 0;
         translate: 0 4rem
     }
+
     to {
         opacity: 1;
         translate: "none"

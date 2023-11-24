@@ -163,43 +163,53 @@
         font-size: 18px;
         line-height: 27px
     }
+
     .style_section_testimonials__iYgeR {
         margin-top: unset
     }
+
     .style_section_testimonials__iYgeR:nth-last-child(2) {
         margin-bottom: 0
     }
+
     .style_section_testimonials__iYgeR .style_content___V5g_ {
         flex-direction: column
     }
+
     .style_section_testimonials__iYgeR .style_content___V5g_ .style_people__6uMmr {
-        width: 100%!important;
-        margin-right: 0!important;
-        margin-left: 0!important
+        width: 100% !important;
+        margin-right: 0 !important;
+        margin-left: 0 !important
     }
+
     .style_section_testimonials__iYgeR .style_content___V5g_ .style_people__6uMmr .style_img__WDfAg {
         display: flex;
         justify-content: center
     }
+
     .style_section_testimonials__iYgeR .style_content___V5g_ .style_container_el__yw9S5 {
         order: 2;
-        width: 100%!important;
+        width: 100% !important;
         margin-top: 50px;
         gap: 29px;
         flex-direction: column;
         height: unset
     }
+
     .style_section_testimonials__iYgeR .style_content___V5g_ .style_container_logos__Vet3J {
         width: 100%;
         margin-top: 55px
     }
+
     .style_section_testimonials__iYgeR .style_content___V5g_ .style_container_logos__Vet3J .style_logo__UWxxM {
         width: 87px;
         height: 87px
     }
+
     .style_section_testimonials__iYgeR .style_content___V5g_ .style_container_logos__Vet3J .style_logo__UWxxM:not(:nth-child(3n+3)) {
         margin-right: 31px
     }
+
     .style_section_testimonials__iYgeR .style_content___V5g_ .style_container_logos__Vet3J .style_logo__UWxxM:nth-last-child(1n+4) {
         margin-bottom: 0
     }
@@ -230,7 +240,7 @@
 }
 
 .trustpilot_container_trustpilot__1SVy_ .trustpilot_trustpilot_widget__5joLI.trustpilot_true__6f52m iframe {
-    bottom: 22px!important;
+    bottom: 22px !important;
     top: -29px
 }
 
@@ -698,7 +708,7 @@
     height: 54px;
     width: 54px;
     border-radius: 50%;
-    background-color: #2fce65;
+    background-color: #8BC53F;
     transition: background-color .25s ease
 }
 
@@ -793,7 +803,7 @@
 .style_section_with_banner__vRgKQ .style_wrapper__mTsl_ .style_container_cards__n_iMC .style_card__TmGxi .style_container_right__LHAdx .style_container_bottom__ptkUc .style_container_text__kIx2A h6 {
     color: #101010;
     font-family: Pangea_bold, sans-serif;
-    font-size: 16px!important
+    font-size: 16px !important
 }
 
 @media screen and (min-width:700px) {
@@ -813,7 +823,7 @@
 .style_section_with_banner__vRgKQ .style_wrapper__mTsl_ .style_container_cards__n_iMC .style_card__TmGxi .style_container_right__LHAdx .style_container_bottom__ptkUc .style_container_text__kIx2A p {
     color: #434649;
     font-family: Inter-Regular, sans-serif;
-    font-style: normal!important
+    font-style: normal !important
 }
 
 @media screen and (min-width:700px) {
@@ -838,7 +848,7 @@
 .style_section_with_banner__vRgKQ .style_wrapper__mTsl_ .style_container_cards__n_iMC .style_card__TmGxi .style_container_right__LHAdx .style_container_bottom__ptkUc .style_arrow__hFVB8 {
     width: 20px;
     height: 20px;
-    position: unset!important;
+    position: unset !important;
     transform: rotate(0deg);
     transition: transform .25s ease-out
 }
@@ -915,7 +925,7 @@
     cursor: pointer;
     transition: background-color .25s ease, border-color .25s ease;
     padding: 0 24px;
-    background-color: #2fce65
+    background-color: #8BC53F
 }
 
 .style_section_with_banner__vRgKQ .style_wrapper__mTsl_ .style_banner__EcL1h .style_banner_wrapper__0fF_7 .style_container_right__LHAdx .style_btn__oJ4uv .style_btn_text__99O7m {
@@ -984,7 +994,7 @@
 }
 
 .style_section_with_banner__vRgKQ .style_wrapper__mTsl_ .style_banner__EcL1h .style_banner_wrapper__0fF_7 .style_container_right__LHAdx .style_btn__oJ4uv:hover .style_btn_arrow__3BVt9 .style_btn_arrow_rd__eYv_1 {
-    fill: #2fce65
+    fill: #8BC53F
 }
 
 .style_section_with_banner__vRgKQ .style_wrapper__mTsl_ .style_banner__EcL1h .style_banner_wrapper__0fF_7 .style_container_right__LHAdx .style_btn__oJ4uv:hover .style_btn_arrow__3BVt9 {
@@ -994,17 +1004,20 @@
 
 @media screen and (max-width:1200px)and (orientation:landscape) {
     .style_navbar__JiWc1 {
-        width: calc(60% - 50px)!important
+        width: calc(60% - 50px) !important
     }
+
     .style_container_cards__n_iMC .style_card__TmGxi {
-        width: 50%!important;
-        min-width: 50%!important
+        width: 50% !important;
+        min-width: 50% !important
     }
+
     .style_banner__EcL1h .style_banner_wrapper__0fF_7 {
         flex-direction: column
     }
+
     .style_banner__EcL1h .style_banner_wrapper__0fF_7 img {
-        max-width: 50%!important
+        max-width: 50% !important
     }
 }
 
@@ -1012,18 +1025,22 @@
     .style_section_with_banner__vRgKQ {
         padding: 72px 0
     }
+
     .style_section_with_banner__vRgKQ .style_wrapper__mTsl_ .style_container_rating__J_2XG {
         margin-top: 32px;
         align-items: baseline;
         justify-content: space-between
     }
+
     .style_section_with_banner__vRgKQ .style_wrapper__mTsl_ .style_container_rating__J_2XG .style_container_trustpilot__SXhij {
         width: 120px;
         scale: .7
     }
+
     .style_section_with_banner__vRgKQ .style_wrapper__mTsl_ .style_container_rating__J_2XG .style_container_trustpilot__SXhij :first-child {
         margin-top: -21px
     }
+
     .style_section_with_banner__vRgKQ .style_wrapper__mTsl_ .style_navbar__JiWc1 {
         margin-right: auto;
         margin-left: auto;
@@ -1056,10 +1073,11 @@
     .style_section_with_banner__vRgKQ .style_wrapper__mTsl_ .style_navbar__JiWc1 ul li {
         flex: 1 1 100%;
         padding: 6px;
-        font-size: 12px!important;
+        font-size: 12px !important;
         display: flex;
         justify-content: center
     }
+
     .style_section_with_banner__vRgKQ .style_wrapper__mTsl_ .style_container_cards__n_iMC {
         margin-right: auto;
         margin-left: auto
@@ -1091,19 +1109,24 @@
         max-width: 100%;
         flex-direction: column
     }
+
     .style_section_with_banner__vRgKQ .style_wrapper__mTsl_ .style_container_cards__n_iMC .style_card__TmGxi.style_active___J4bd {
         display: block
     }
+
     .style_section_with_banner__vRgKQ .style_wrapper__mTsl_ .style_container_cards__n_iMC .style_card__TmGxi .style_container_left__bkw8p,
     .style_section_with_banner__vRgKQ .style_wrapper__mTsl_ .style_container_cards__n_iMC .style_card__TmGxi .style_container_right__LHAdx {
         max-width: unset
     }
+
     .style_section_with_banner__vRgKQ .style_wrapper__mTsl_ .style_banner__EcL1h {
         margin-top: 72px
     }
+
     .style_section_with_banner__vRgKQ .style_wrapper__mTsl_ .style_banner__EcL1h .style_banner_wrapper__0fF_7 {
         flex-direction: column
     }
+
     .style_section_with_banner__vRgKQ .style_wrapper__mTsl_ .style_banner__EcL1h .style_banner_wrapper__0fF_7 img {
         max-width: 100%
     }
@@ -1431,9 +1454,11 @@
         flex-direction: column;
         gap: 0
     }
+
     .styles_section_testimonials__VyA1Q .styles_container_slideshow__S8n8N .styles_slideshow_item__J9m12 .styles_container_image__Kgql3 .styles_picture___k85N {
         display: none
     }
+
     .styles_section_testimonials__VyA1Q .styles_container_slideshow__S8n8N .styles_slideshow_item__J9m12 .styles_container_image__Kgql3 .styles_picture_responsive__prwVx {
         display: block;
         width: 100%;
@@ -1441,10 +1466,12 @@
         -o-object-fit: cover;
         object-fit: cover
     }
+
     .styles_section_testimonials__VyA1Q .styles_container_slideshow__S8n8N .styles_slideshow_item__J9m12 .styles_container_infos__fKuOB {
         height: 100%;
         margin: 32px 24px
     }
+
     .styles_section_testimonials__VyA1Q .styles_container_slideshow__S8n8N .styles_slideshow_item__J9m12 .styles_container_infos__fKuOB .styles_container_logo__7Yo9Z {
         display: none
     }

@@ -115,7 +115,7 @@
     cursor: pointer;
     transition: background-color .25s ease, border-color .25s ease;
     padding: 0 24px;
-    background-color: #2fce65
+    background-color: #8BC53F
 }
 
 .style_section_roi__6WAoD .style_wrapper__Y08Al .style_container_left__TcJv9 .style_btn__q9aVv .style_btn_text__RF1oO {
@@ -184,7 +184,7 @@
 }
 
 .style_section_roi__6WAoD .style_wrapper__Y08Al .style_container_left__TcJv9 .style_btn__q9aVv:hover .style_btn_arrow__elodd .style_btn_arrow_rd__iWThG {
-    fill: #2fce65
+    fill: #8BC53F
 }
 
 .style_section_roi__6WAoD .style_wrapper__Y08Al .style_container_left__TcJv9 .style_btn__q9aVv:hover .style_btn_arrow__elodd {
@@ -245,7 +245,7 @@
 }
 
 .style_section_roi__6WAoD .style_wrapper__Y08Al .style_container_right__EHR9V .style_navbar__dW3HT ul li {
-    cursor: pointer!important;
+    cursor: pointer !important;
     text-wrap: nowrap;
     padding: 9px 35px;
     border-radius: 8px;
@@ -339,7 +339,7 @@
     color: #101010;
     font-family: Pangea_bold, sans-serif;
     transition: border-color .25s ease;
-    border-right: 16px solid transparent!important
+    border-right: 16px solid transparent !important
 }
 
 @media screen and (min-width:700px) {
@@ -376,10 +376,12 @@
         font-size: 18px;
         line-height: 27px
     }
+
     .style_section_roi__6WAoD .style_wrapper__Y08Al .style_container_right__EHR9V .style_container_form__KhLkX .style_el_input__TrGxV select:-ms-input-placeholder {
         font-size: 18px;
         line-height: 27px
     }
+
     .style_section_roi__6WAoD .style_wrapper__Y08Al .style_container_right__EHR9V .style_container_form__KhLkX .style_el_input__TrGxV select::placeholder {
         font-size: 18px;
         line-height: 27px
@@ -391,10 +393,12 @@
         font-size: 18px;
         line-height: 27px
     }
+
     .style_section_roi__6WAoD .style_wrapper__Y08Al .style_container_right__EHR9V .style_container_form__KhLkX .style_el_input__TrGxV select:-ms-input-placeholder {
         font-size: 18px;
         line-height: 27px
     }
+
     .style_section_roi__6WAoD .style_wrapper__Y08Al .style_container_right__EHR9V .style_container_form__KhLkX .style_el_input__TrGxV select::placeholder {
         font-size: 18px;
         line-height: 27px
@@ -412,7 +416,7 @@
 }
 
 .style_section_roi__6WAoD .style_wrapper__Y08Al .style_container_right__EHR9V .style_result__Zlf5h .style_number_container__extKQ .style_info__9izyq {
-    color: #2fce65;
+    color: #8BC53F;
     display: flex
 }
 
@@ -682,8 +686,8 @@
 
 @media screen and (max-width:1200px)and (orientation:landscape) {
     .style_container_right__EHR9V {
-        width: 70%!important;
-        margin: auto!important
+        width: 70% !important;
+        margin: auto !important
     }
 }
 
@@ -691,38 +695,47 @@
     .style_section_roi__6WAoD {
         padding: 72px 0
     }
+
     .style_section_roi__6WAoD .style_wrapper__Y08Al {
         flex-direction: column
     }
+
     .style_section_roi__6WAoD .style_wrapper__Y08Al .style_container_left__TcJv9 {
         width: 100%
     }
+
     .style_section_roi__6WAoD .style_wrapper__Y08Al .style_container_left__TcJv9 img {
         max-width: 150px;
         position: absolute;
         bottom: -80px;
         left: 60%
     }
+
     .style_section_roi__6WAoD .style_wrapper__Y08Al .style_container_right__EHR9V {
         padding: 25px;
         width: 100%
     }
+
     .style_section_roi__6WAoD .style_wrapper__Y08Al .style_container_right__EHR9V .style_navbar__dW3HT {
         padding: 5.5px 8px;
         bottom: 70px
     }
+
     .style_section_roi__6WAoD .style_wrapper__Y08Al .style_container_right__EHR9V .style_navbar__dW3HT ul {
         flex-wrap: wrap
     }
+
     .style_section_roi__6WAoD .style_wrapper__Y08Al .style_container_right__EHR9V .style_navbar__dW3HT ul li {
         flex: 1 1 100%;
         padding: 6px 8px
     }
+
     .style_section_roi__6WAoD .style_wrapper__Y08Al .style_container_right__EHR9V .style_container_form__KhLkX .style_el_input__TrGxV,
     .style_section_roi__6WAoD .style_wrapper__Y08Al .style_container_right__EHR9V .style_container_form__KhLkX .style_el_input__TrGxV:first-child,
     .style_section_roi__6WAoD .style_wrapper__Y08Al .style_container_right__EHR9V .style_container_form__KhLkX .style_el_input__TrGxV:nth-child(2) {
         width: 100%
     }
+
     .style_section_roi__6WAoD .style_wrapper__Y08Al .style_container_right__EHR9V .style_result__Zlf5h {
         max-width: 100%
     }

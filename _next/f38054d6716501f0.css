@@ -1,30 +1,30 @@
 @font-face {
     font-family: Pangea_bold;
-    src: url(/fonts/Pangea-Bold.woff2) format("woff2"),url(/fonts/Pangea-Bold.otf) format("opentype");
+    src: url(/fonts/Pangea-Bold.woff2) format("woff2"), url(/fonts/Pangea-Bold.otf) format("opentype");
     font-display: swap
 }
 
 @font-face {
     font-family: Pangea_SemiBold;
-    src: url(/fonts/Pangea-SemiBold.woff2) format("woff2"),url(/fonts/Pangea-SemiBold.otf) format("opentype");
+    src: url(/fonts/Pangea-SemiBold.woff2) format("woff2"), url(/fonts/Pangea-SemiBold.otf) format("opentype");
     font-display: swap
 }
 
 @font-face {
     font-family: Pangea_Regular;
-    src: url(/fonts/Pangea-Regular.woff2) format("woff2"),url(/fonts/Pangea-Regular.otf) format("opentype");
+    src: url(/fonts/Pangea-Regular.woff2) format("woff2"), url(/fonts/Pangea-Regular.otf) format("opentype");
     font-display: swap
 }
 
 @font-face {
     font-family: Inter-Bold;
-    src: url(/fonts/Inter-Bold.woff2) format("woff2"),url(/fonts/Inter-Bold.ttf) format("truetype");
+    src: url(/fonts/Inter-Bold.woff2) format("woff2"), url(/fonts/Inter-Bold.ttf) format("truetype");
     font-display: swap
 }
 
 @font-face {
     font-family: Inter-Regular;
-    src: url(/fonts/Inter-Regular.woff2) format("woff2"),url(/fonts/Inter-Regular.ttf) format("truetype");
+    src: url(/fonts/Inter-Regular.woff2) format("woff2"), url(/fonts/Inter-Regular.ttf) format("truetype");
     font-display: swap
 }
 
@@ -48,19 +48,19 @@
 
 @media screen and (min-width: 1200px) {
     .style_section_pres__QlPbK .style_wrapper__RzUVS {
-        width:calc(((64px * 12) + ((calc(calc(40px * 11 / 12) * 11 / 12) * 12 / (12 - 1)) * (12 - 1))) + calc(0 * calc(40px * 11 / 12)))
+        width: calc(((64px * 12) + ((calc(calc(40px * 11 / 12) * 11 / 12) * 12 / (12 - 1)) * (12 - 1))) + calc(0 * calc(40px * 11 / 12)))
     }
 }
 
 @media screen and (min-width: 700px)and (max-width:1200px) {
     .style_section_pres__QlPbK .style_wrapper__RzUVS {
-        width:calc(100% - 100px)
+        width: calc(100% - 100px)
     }
 }
 
 @media screen and (max-width: 700px) {
     .style_section_pres__QlPbK .style_wrapper__RzUVS {
-        width:calc(100% - 50px)
+        width: calc(100% - 50px)
     }
 }
 
@@ -75,19 +75,19 @@
 
 .style_section_pres__QlPbK .style_container_text__A40jm h2 {
     color: #fff;
-    font-family: Pangea_bold,sans-serif
+    font-family: Pangea_bold, sans-serif
 }
 
 @media screen and (min-width: 700px) {
     .style_section_pres__QlPbK .style_container_text__A40jm h2 {
-        font-size:42px;
+        font-size: 42px;
         line-height: 46.2px
     }
 }
 
 @media screen and (max-width: 700px) {
     .style_section_pres__QlPbK .style_container_text__A40jm h2 {
-        font-size:26px;
+        font-size: 26px;
         line-height: 28.6px
     }
 }
@@ -103,7 +103,7 @@
     position: absolute;
     left: 50%;
     top: 50%;
-    transform: translate(-50%,-50%);
+    transform: translate(-50%, -50%);
     width: calc(100% + 0px);
     height: calc(100% + 4px);
     fill: #fff
@@ -117,19 +117,19 @@
     max-width: 567px;
     margin: auto;
     color: #f2f2f2;
-    font-family: Inter-Regular,sans-serif
+    font-family: Inter-Regular, sans-serif
 }
 
 @media screen and (min-width: 700px) {
     .style_section_pres__QlPbK .style_container_text__A40jm p {
-        font-size:16px;
+        font-size: 16px;
         line-height: 24px
     }
 }
 
 @media screen and (max-width: 700px) {
     .style_section_pres__QlPbK .style_container_text__A40jm p {
-        font-size:16px;
+        font-size: 16px;
         line-height: 24px
     }
 }
@@ -170,7 +170,7 @@
     position: relative;
     align-items: center;
     text-decoration: none;
-    font-family: Inter-Bold,sans-serif;
+    font-family: Inter-Bold, sans-serif;
     font-size: 16px;
     line-height: 20.8px;
     color: #fff
@@ -178,26 +178,26 @@
 
 .style_section_pres__QlPbK .style_container_el__xlEPE .style_el__joAbo .style_text__JSUns p {
     margin-top: 3px;
-    color: hsla(0,0%,100%,.8);
-    font-family: Inter-Regular,sans-serif
+    color: hsla(0, 0%, 100%, .8);
+    font-family: Inter-Regular, sans-serif
 }
 
 @media screen and (min-width: 700px) {
     .style_section_pres__QlPbK .style_container_el__xlEPE .style_el__joAbo .style_text__JSUns p {
-        font-size:14px;
+        font-size: 14px;
         line-height: 21px
     }
 }
 
 @media screen and (max-width: 700px) {
     .style_section_pres__QlPbK .style_container_el__xlEPE .style_el__joAbo .style_text__JSUns p {
-        font-size:14px;
+        font-size: 14px;
         line-height: 21px
     }
 }
 
 .style_section_pres__QlPbK .style_container_el__xlEPE .style_el__joAbo:first-child .style_img__SjHJP {
-    border-color: #2fce65
+    border-color: #8BC53F
 }
 
 .style_section_pres__QlPbK .style_container_el__xlEPE .style_el__joAbo:nth-child(2) .style_img__SjHJP {
@@ -233,19 +233,19 @@
 
 .style_section_pres__QlPbK .style_container_demo__17v_p .style_content__p7rYm h3 {
     color: #fff;
-    font-family: Pangea_bold,sans-serif
+    font-family: Pangea_bold, sans-serif
 }
 
 @media screen and (min-width: 700px) {
     .style_section_pres__QlPbK .style_container_demo__17v_p .style_content__p7rYm h3 {
-        font-size:28px;
+        font-size: 28px;
         line-height: 30.8px
     }
 }
 
 @media screen and (max-width: 700px) {
     .style_section_pres__QlPbK .style_container_demo__17v_p .style_content__p7rYm h3 {
-        font-size:22px;
+        font-size: 22px;
         line-height: 28.6px
     }
 }
@@ -257,9 +257,9 @@
     display: inline-flex;
     align-items: center;
     cursor: pointer;
-    transition: background-color .25s ease,border-color .25s ease;
+    transition: background-color .25s ease, border-color .25s ease;
     padding: 0 24px;
-    background-color: #2fce65
+    background-color: #8BC53F
 }
 
 .style_section_pres__QlPbK .style_container_demo__17v_p .style_content__p7rYm .style_btn__WjBur .style_btn_text__yRo2f {
@@ -275,7 +275,8 @@
     transition: fill .25s ease
 }
 
-.style_section_pres__QlPbK .style_container_demo__17v_p .style_content__p7rYm .style_btn__WjBur .style_btn_arrow__O4Tb2 .style_btn_arrow_st_1__lRAIf,.style_section_pres__QlPbK .style_container_demo__17v_p .style_content__p7rYm .style_btn__WjBur .style_btn_arrow__O4Tb2 .style_btn_arrow_st_2__MZE_2 {
+.style_section_pres__QlPbK .style_container_demo__17v_p .style_content__p7rYm .style_btn__WjBur .style_btn_arrow__O4Tb2 .style_btn_arrow_st_1__lRAIf,
+.style_section_pres__QlPbK .style_container_demo__17v_p .style_content__p7rYm .style_btn__WjBur .style_btn_arrow__O4Tb2 .style_btn_arrow_st_2__MZE_2 {
     transition: stroke .25s ease
 }
 
@@ -288,20 +289,20 @@
     position: relative;
     align-items: center;
     text-decoration: none;
-    font-family: Inter-Bold,sans-serif;
+    font-family: Inter-Bold, sans-serif;
     font-size: 16px;
     line-height: 20.8px
 }
 
 @media screen and (min-width: 700px) {
     .style_section_pres__QlPbK .style_container_demo__17v_p .style_content__p7rYm .style_btn__WjBur {
-        height:60px
+        height: 60px
     }
 }
 
 @media screen and (max-width: 700px) {
     .style_section_pres__QlPbK .style_container_demo__17v_p .style_content__p7rYm .style_btn__WjBur {
-        height:50px
+        height: 50px
     }
 }
 
@@ -313,7 +314,8 @@
     fill: #101010
 }
 
-.style_section_pres__QlPbK .style_container_demo__17v_p .style_content__p7rYm .style_btn__WjBur .style_btn_arrow__O4Tb2 .style_btn_arrow_st_1__lRAIf,.style_section_pres__QlPbK .style_container_demo__17v_p .style_content__p7rYm .style_btn__WjBur .style_btn_arrow__O4Tb2 .style_btn_arrow_st_2__MZE_2 {
+.style_section_pres__QlPbK .style_container_demo__17v_p .style_content__p7rYm .style_btn__WjBur .style_btn_arrow__O4Tb2 .style_btn_arrow_st_1__lRAIf,
+.style_section_pres__QlPbK .style_container_demo__17v_p .style_content__p7rYm .style_btn__WjBur .style_btn_arrow__O4Tb2 .style_btn_arrow_st_2__MZE_2 {
     stroke: #fff
 }
 
@@ -326,17 +328,17 @@
 }
 
 .style_section_pres__QlPbK .style_container_demo__17v_p .style_content__p7rYm .style_btn__WjBur:hover .style_btn_arrow__O4Tb2 .style_btn_arrow_rd__wgT3i {
-    fill: #2fce65
+    fill: #8BC53F
 }
 
 .style_section_pres__QlPbK .style_container_demo__17v_p .style_content__p7rYm .style_btn__WjBur:hover .style_btn_arrow__O4Tb2 {
-    transition: transform .5s cubic-bezier(.33,3.2,.515,1);
+    transition: transform .5s cubic-bezier(.33, 3.2, .515, 1);
     transform: rotate(-35deg)
 }
 
 @media screen and (max-width: 700px) {
     .style_section_pres__QlPbK {
-        padding:72px 0
+        padding: 72px 0
     }
 
     .style_section_pres__QlPbK .style_obj_1__gl2gv {

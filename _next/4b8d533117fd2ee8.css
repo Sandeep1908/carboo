@@ -276,6 +276,7 @@
         flex-wrap: wrap;
         gap: 24px
     }
+
     .style_section_cards_services___aK9o .style_container_el__oB1DM .style_el__rNCX6 {
         flex: initial;
         width: calc(50% - 12px)
@@ -286,31 +287,37 @@
     .style_section_cards_services___aK9o {
         padding: 72px 0
     }
+
     .style_section_cards_services___aK9o .style_container_title__jHLEj {
         align-items: flex-start
     }
+
     .style_section_cards_services___aK9o .style_container_title__jHLEj .style_ontitle__5gsQk,
     .style_section_cards_services___aK9o .style_container_title__jHLEj .style_subtitle__5JgSG,
     .style_section_cards_services___aK9o .style_container_title__jHLEj h2 {
         text-align: left
     }
+
     .style_section_cards_services___aK9o .style_container_el__oB1DM {
         flex-direction: column;
         margin-top: 40px;
         gap: 16px
     }
+
     .style_section_cards_services___aK9o .style_container_el__oB1DM .style_el__rNCX6 {
         padding: 16px;
         gap: 16px;
         border-radius: 21px;
         border: 1.224px solid #f3f3f3
     }
+
     .style_section_cards_services___aK9o .style_container_el__oB1DM .style_el__rNCX6 .style_illu__Dunp3 {
         display: flex;
         flex-direction: row;
         align-items: center;
         gap: 16px
     }
+
     .style_section_cards_services___aK9o .style_container_el__oB1DM .style_el__rNCX6 .style_illu__Dunp3 img {
         height: 44px;
         border-radius: 11px;
@@ -318,15 +325,19 @@
         width: 44px;
         padding: 6px
     }
+
     .style_section_cards_services___aK9o .style_container_el__oB1DM .style_el__rNCX6 .style_illu__Dunp3 h3 {
         display: block
     }
+
     .style_section_cards_services___aK9o .style_container_el__oB1DM .style_el__rNCX6 .style_text__FFymt {
         margin-top: 0
     }
+
     .style_section_cards_services___aK9o .style_container_el__oB1DM .style_el__rNCX6 .style_text__FFymt h3 {
         display: none
     }
+
     .style_section_cards_services___aK9o .style_container_el__oB1DM .style_el__rNCX6 .style_text__FFymt p {
         margin-top: 0
     }
@@ -1176,6 +1187,7 @@
         flex-wrap: wrap;
         gap: 24px
     }
+
     .style_section_cards_0__67Lwb .style_container_el__FPJDy .style_el__MVPxH {
         width: calc(50% - 12px)
     }
@@ -1185,42 +1197,53 @@
     .style_section_cards_0__67Lwb {
         padding: 72px 0
     }
+
     .style_section_cards_0__67Lwb .style_container_title__EuYY_ {
         align-items: flex-start
     }
+
     .style_section_cards_0__67Lwb .style_container_title__EuYY_ .style_ontitle___oExx,
     .style_section_cards_0__67Lwb .style_container_title__EuYY_ .style_subtitle__OFdoy,
     .style_section_cards_0__67Lwb .style_container_title__EuYY_ h2 {
         text-align: left
     }
+
     .style_section_cards_0__67Lwb .style_container_el__FPJDy {
         flex-direction: column;
         margin-top: 40px
     }
+
     .style_section_cards_0__67Lwb .style_container_el__FPJDy .style_el__MVPxH .style_illu__5r_jB {
         height: 80px
     }
+
     .style_section_cards_0__67Lwb .style_container_el__FPJDy .style_el__MVPxH .style_text__OtI0h {
         margin-top: 20px
     }
+
     .style_section_cards_dark__tsz53 {
         padding: 72px 0
     }
+
     .style_section_cards_dark__tsz53 .style_container_title__EuYY_ {
         align-items: flex-start
     }
+
     .style_section_cards_dark__tsz53 .style_container_title__EuYY_ .style_ontitle___oExx,
     .style_section_cards_dark__tsz53 .style_container_title__EuYY_ .style_subtitle__OFdoy,
     .style_section_cards_dark__tsz53 .style_container_title__EuYY_ h2 {
         text-align: left
     }
+
     .style_section_cards_dark__tsz53 .style_container_el__FPJDy {
         flex-direction: column;
         margin-top: 40px
     }
+
     .style_section_cards_dark__tsz53 .style_container_el__FPJDy .style_el__MVPxH .style_illu__5r_jB {
         height: 80px
     }
+
     .style_section_cards_dark__tsz53 .style_container_el__FPJDy .style_el__MVPxH .style_text__OtI0h {
         margin-top: 20px
     }
@@ -1484,6 +1507,7 @@
         flex-wrap: wrap;
         gap: 24px
     }
+
     .style_section_cards_1__6mWRu .style_container_el__FPJDy .style_el__MVPxH {
         flex: initial;
         width: calc(50% - 12px)
@@ -1494,39 +1518,48 @@
     .style_section_cards_1__6mWRu {
         padding: 72px 0
     }
+
     .style_section_cards_1__6mWRu .style_container_title__EuYY_ {
         align-items: flex-start
     }
+
     .style_section_cards_1__6mWRu .style_container_title__EuYY_ .style_ontitle___oExx,
     .style_section_cards_1__6mWRu .style_container_title__EuYY_ h2 {
         text-align: left
     }
+
     .style_section_cards_1__6mWRu .style_container_title__EuYY_ .style_subtitle__OFdoy {
         text-align: left;
         max-width: 100%
     }
+
     .style_section_cards_1__6mWRu .style_container_el__FPJDy {
         margin-top: 40px;
         flex-direction: column
     }
+
     .style_section_cards_1__6mWRu .style_container_el__FPJDy .style_el__MVPxH {
         height: 110px
     }
+
     .style_section_cards_1__6mWRu .style_container_el__FPJDy .style_el__MVPxH .style_content__ObvLV {
         width: 100%;
         flex-direction: row;
         align-items: center;
         justify-content: normal
     }
+
     .style_section_cards_1__6mWRu .style_container_el__FPJDy .style_el__MVPxH .style_illu__5r_jB {
         height: 64px;
         width: 64px;
         margin-right: 10px
     }
+
     .style_section_cards_1__6mWRu .style_container_el__FPJDy .style_el__MVPxH .style_illu__5r_jB img {
         height: auto;
         width: 100%
     }
+
     .style_section_cards_1__6mWRu .style_container_el__FPJDy .style_el__MVPxH .style_text__OtI0h {
         flex: 1 1;
         text-align: left;
@@ -1535,10 +1568,12 @@
         height: auto;
         margin-top: 0
     }
+
     .style_section_cards_1__6mWRu .style_container_el__FPJDy .style_el__MVPxH .style_text__OtI0h h3 {
         flex: 1 1;
         height: auto
     }
+
     .style_section_cards_1__6mWRu .style_container_el__FPJDy .style_el__MVPxH .style_text__OtI0h .style_btn_link__SXmI_ {
         width: 24px;
         height: 24px;
@@ -1810,6 +1845,7 @@
         flex-wrap: wrap;
         gap: 24px
     }
+
     .style_section_cards_2__MxwpR .style_container_el__FPJDy .style_el__MVPxH {
         flex: initial;
         width: calc(50% - 12px)
@@ -1820,24 +1856,30 @@
     .style_section_cards_link__AGsFX .style_container_el__FPJDy .style_el__MVPxH {
         flex: 0 0 100%
     }
+
     .style_section_cards_2__MxwpR {
         padding: 72px 0
     }
+
     .style_section_cards_2__MxwpR .style_container_title__EuYY_ {
         align-items: flex-start
     }
+
     .style_section_cards_2__MxwpR .style_container_title__EuYY_ .style_ontitle___oExx,
     .style_section_cards_2__MxwpR .style_container_title__EuYY_ .style_subtitle__OFdoy,
     .style_section_cards_2__MxwpR .style_container_title__EuYY_ h2 {
         text-align: left
     }
+
     .style_section_cards_2__MxwpR .style_container_el__FPJDy {
         flex-direction: column;
         margin-top: 40px
     }
+
     .style_section_cards_2__MxwpR .style_container_el__FPJDy .style_el__MVPxH .style_illu__5r_jB {
         height: 80px
     }
+
     .style_section_cards_2__MxwpR .style_container_el__FPJDy .style_el__MVPxH .style_text__OtI0h {
         margin-top: 20px
     }
@@ -2010,19 +2052,23 @@
         font-size: 16px;
         line-height: 24px
     }
+
     .style_section_cards_3__603DG .style_container_title__EuYY_ {
         align-items: flex-start
     }
+
     .style_section_cards_3__603DG .style_container_title__EuYY_ .style_ontitle___oExx,
     .style_section_cards_3__603DG .style_container_title__EuYY_ .style_subtitle__OFdoy,
     .style_section_cards_3__603DG .style_container_title__EuYY_ h2 {
         text-align: left
     }
+
     .style_section_cards_3__603DG .style_container_el__FPJDy {
         margin-top: 40px;
         flex-direction: column;
         gap: 16px
     }
+
     .style_section_cards_3__603DG .style_container_el__FPJDy .style_el__MVPxH {
         padding: 32px;
         flex: 1 1
@@ -2269,19 +2315,23 @@
         font-size: 16px;
         line-height: 24px
     }
+
     .style_section_cards_4__mELIp .style_container_title__EuYY_ {
         align-items: flex-start
     }
+
     .style_section_cards_4__mELIp .style_container_title__EuYY_ .style_ontitle___oExx,
     .style_section_cards_4__mELIp .style_container_title__EuYY_ .style_subtitle__OFdoy,
     .style_section_cards_4__mELIp .style_container_title__EuYY_ h2 {
         text-align: left
     }
+
     .style_section_cards_4__mELIp .style_container_el__FPJDy {
         margin-top: 40px;
         flex-direction: column;
         gap: 16px
     }
+
     .style_section_cards_4__mELIp .style_container_el__FPJDy .style_el__MVPxH {
         padding: 32px;
         flex: 1 1
@@ -2475,16 +2525,19 @@
     .style_section_cards_5__vYfU_ .style_container_title__EuYY_ {
         align-items: flex-start
     }
+
     .style_section_cards_5__vYfU_ .style_container_title__EuYY_ .style_ontitle___oExx,
     .style_section_cards_5__vYfU_ .style_container_title__EuYY_ .style_subtitle__OFdoy,
     .style_section_cards_5__vYfU_ .style_container_title__EuYY_ h2 {
         text-align: left
     }
+
     .style_section_cards_5__vYfU_ .style_container_el__FPJDy {
         margin-top: 32px;
         flex-direction: column;
         gap: 16px
     }
+
     .style_section_cards_5__vYfU_ .style_container_el__FPJDy .style_el__MVPxH {
         flex: 1 1
     }
@@ -2767,7 +2820,7 @@
     cursor: pointer;
     transition: background-color .25s ease, border-color .25s ease;
     padding: 0 24px;
-    background-color: #2fce65
+    background-color: #8BC53F
 }
 
 .style_section_cards_no_wrap__FEAjm .style_container_btn__bZ9to .style_btn__N5mZ9 .style_btn_text__DYD9R {
@@ -2836,7 +2889,7 @@
 }
 
 .style_section_cards_no_wrap__FEAjm .style_container_btn__bZ9to .style_btn__N5mZ9:hover .style_btn_arrow__0JStv .style_btn_arrow_rd__ujFRk {
-    fill: #2fce65
+    fill: #8BC53F
 }
 
 .style_section_cards_no_wrap__FEAjm .style_container_btn__bZ9to .style_btn__N5mZ9:hover .style_btn_arrow__0JStv {
@@ -2848,21 +2901,26 @@
     .style_section_cards_no_wrap__FEAjm {
         padding: 72px 0
     }
+
     .style_section_cards_no_wrap__FEAjm .style_container_title__EuYY_ {
         align-items: flex-start
     }
+
     .style_section_cards_no_wrap__FEAjm .style_container_title__EuYY_ .style_ontitle___oExx,
     .style_section_cards_no_wrap__FEAjm .style_container_title__EuYY_ .style_subtitle__OFdoy,
     .style_section_cards_no_wrap__FEAjm .style_container_title__EuYY_ h2 {
         text-align: left
     }
+
     .style_section_cards_no_wrap__FEAjm .style_container_el__FPJDy {
         flex-direction: column;
         margin-top: 40px
     }
+
     .style_section_cards_no_wrap__FEAjm .style_container_el__FPJDy .style_el__MVPxH .style_illu__5r_jB {
         height: 80px
     }
+
     .style_section_cards_no_wrap__FEAjm .style_container_el__FPJDy .style_el__MVPxH .style_text__OtI0h {
         margin-top: 20px
     }
@@ -3039,7 +3097,7 @@
 }
 
 .style_section_cards_esg__vQyDF .style_container_el__FPJDy .style_el__MVPxH .style_text__OtI0h .style_btn_link__SXmI_ span {
-    font-size: 16px!important
+    font-size: 16px !important
 }
 
 .style_section_cards_esg__vQyDF .style_container_btn__bZ9to {
@@ -3126,12 +3184,15 @@
     .style_section_cards_esg__vQyDF {
         padding: 72px 0
     }
+
     .style_section_cards_esg__vQyDF .style_container_title__EuYY_ {
         align-items: center
     }
+
     .style_section_cards_esg__vQyDF .style_container_title__EuYY_ h2 {
         text-align: center
     }
+
     .style_section_cards_esg__vQyDF .style_container_el__FPJDy {
         margin-left: 12.5%;
         flex-direction: column;
